@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         hospital.addPerson(new Doctor("Dr. Abenezer", "Nebiyu", 21, "Hormonal Analysis", "2 years"));
-        hospital.addPerson(new Doctor("Dr. Merwan", "Jemal", 20, "Orthopedics", "4 years"));
+        hospital.addPerson(new Doctor("Dr. Merwan", "Jemal", 20, "brain  specialist", "4 years"));
 
         System.out.println("=== HOSPITAL MANAGEMENT SYSTEM ===\n");
 
