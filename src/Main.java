@@ -33,13 +33,12 @@ public class Main {
                 int roomNumber = 0;
                 hospital.addPerson(new Patient(pFirstName, pLastName, pAge, diagnosis, roomNumber), true);
                 System.out.println("Patient added!\n");
-//
             } else if (choice == 2) {
-                System.out.println("\n--- All People in Hospital ---");
+                System.out.println("\n All People in Hospital");
                 hospital.displayAll();
 
             } else if (choice == 3) {
-                System.out.println("chawwwwww!");
+                System.out.println("chaw thanks for visiting dude!");
                 running = false;
 
             } else {
