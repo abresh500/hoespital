@@ -38,7 +38,7 @@ public class Main {
                 hospital.displayAll();
 
             } else if (choice == 3) {
-                System.out.println("chaw thanks for visiting dude!");
+                System.out.println("chaww thanks for visiting dude!");
                 running = false;
 
             } else {
