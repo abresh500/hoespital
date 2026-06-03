@@ -23,7 +23,7 @@ public class HOSPITAL {
     public void displayAll() {
         for (Person p : people) {
             p.displayInfo();
-            System.out.println("------");
+            System.out.println("---");
         }
     }
 }
