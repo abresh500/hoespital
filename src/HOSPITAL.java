@@ -25,5 +25,5 @@ public class HOSPITAL {
             p.displayInfo();
             System.out.println("---");
         }
-    }
+    }//////////////////////////////////////////////////////////
 }
