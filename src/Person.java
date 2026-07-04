@@ -1,4 +1,4 @@
-public class Person {
+    public class Person {
     private String firstName;
     private String lastName;
     private int age;
@@ -28,8 +28,8 @@ public class Person {
         }
     }
     public void displayInfo() {
-        System.out.println("First Name: " + this.firstName);
-        System.out.println("Last Name: " + this.lastName);
-        System.out.println("Age: " + this.age);
+        System.out.println("ስም: " + this.firstName);
+        System.out.println("የአባት ስም: " + this.lastName);
+        System.out.println("እድሜ: " + this.age);
     }
 }
