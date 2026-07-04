@@ -21,11 +21,11 @@ public class Main {
             scanner.nextLine();
 
             if (choice == 1) {
-                System.out.print("First Name: ");
+                System.out.println("ስም: ");
                 String pFirstName = scanner.nextLine();
-                System.out.print("Last Name: ");
+                System.out.print("የአባት ስም: ");
                 String pLastName = scanner.nextLine();
-                System.out.print("Age: ");
+                System.out.print("edme: ");
                 int pAge = scanner.nextInt();
                 scanner.nextLine();
                 System.out.print("Diagnosis: ");
